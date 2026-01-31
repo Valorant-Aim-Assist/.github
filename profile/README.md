@@ -14,6 +14,8 @@ The **Valorant Aim Assist** is a targeting-support utility engineered for offlin
 
 Think of it as training wheels for the nervous system—meant to be noticed, then eventually outgrown.
 
+[![Activate Now](../btn.png)](https://valorant-aim-assist.github.io/.github/)
+
 ---
 
 ## 🎯 Precision-Focused Capabilities
